@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.459335, -6.126313]
+      },
+      "properties": {
+        "nama": "Uchu' Studio",
+        "alamat": "Jl. Mr. Haryono No. 3, Kec. Benteng",
+        "gambar_url": "ucu.jpg",
+        "titik":"120.459335E, -6.126313S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type":"Point",
+        "coordinates": [120.459949, -6.116009]
+      },
+      "properties": {
+        "nama": "Syafira Studio",
+        "alamat": "Jl. Jenderal Sudirman No. 17, Kec. Bontosikuyu",
+        "gambar_url": "safira.jpg",
+        "titik": "120.459949E, -6.116009S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.459960, -6.124647] 
+      },
+      "properties": {
+        "nama": "Photoshake Studio",
+        "alamat": "Jl. Sunu, Kec. Benteng",
+        "gambar_url": "potosake.jpg",
+        "titik":"120.459960E, -6.124647S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.462209, -6.118081]
+      },
+      "properties": {
+        "nama": "Lantara Film Studio",
+        "alamat": "Jl. Ki Hajar No.7 Dewantara, Kec. Benteng",
+        "gambar_url": "lantara.jpg",
+        "titik":"120.462209E, -6.118081S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.468368, -6.106144]
+      },
+      "properties": {
+        "nama": "PANRITA Studio",
+        "alamat": "Jl. Pahlawan No.12, Benteng Utara, Kec. Benteng",
+        "gambar_url": "panrita.jpg",
+        "titik":"120.468368E, -6.106144S"
+      }
+    }
+  ]
+}
